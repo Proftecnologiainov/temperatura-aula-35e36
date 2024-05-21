@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="IaLhXcR84kn`[InbR-tj" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="9[D4*V`m;Io,d[Emc9~*"><value name="text"><shadow type="text" id="nv.7IUF.8Yb1?8DWsxbT"><field name="TEXT">piscar</field></shadow></value></block></statement></block><block type="device_forever" id="83-him,v({u=RE+pfn0a" x="338" y="1"><statement name="HANDLER"><block type="device_show_leds" id="5c)|f6zJy/0Za5Fv,hIa"><field name="LEDS">`
+        # # . # # 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="0|/n_B#i|*u0az)_vb(u"><value name="pause"><shadow type="timePicker" id="~^f@1q7`D0=$xF4MA|+2"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="TBlO+P5~;y-tVq/zT`TJ"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="{*cXK%Sr%A=wq-|fztN3"><value name="pause"><shadow type="timePicker" id="E3^p!CkvXL]8NP)Gex5p"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
